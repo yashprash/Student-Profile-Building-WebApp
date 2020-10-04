@@ -1,2 +1,2 @@
-# Student-Profile-Building-WebApp
+# Student Profile Building Web Application
 Web programming project that enables student profile building
